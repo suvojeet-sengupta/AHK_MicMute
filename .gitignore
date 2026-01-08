@@ -1,0 +1,12 @@
+*.exe
+*.zip
+VA-2.3
+config.ini
+config.json
+bulma
+.sass-cache
+*.dll
+*.psd
+ahkpm-modules
+.vscode/*
+VMRTest

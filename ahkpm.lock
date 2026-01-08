@@ -1,0 +1,47 @@
+{
+  "lockfileVersion": "1",
+  "dependencies": {
+    "github.com/G33kDude/Neutron.ahk": "branch:master",
+    "github.com/SaifAqqad/VA.ahk": "1.x.x",
+    "github.com/SaifAqqad/VMR.ahk": "1.x.x",
+    "github.com/SaifAqqad/cJson.ahk": "branch:v1",
+    "github.com/mmikeww/AHKv2-Gdip": "branch:master"
+  },
+  "resolved": [
+    {
+      "name": "github.com/G33kDude/Neutron.ahk",
+      "version": "branch:master",
+      "sha": "595ff6aac5a37f6810e82a8f690333bc3400e831",
+      "installPath": "ahkpm-modules/github.com/G33kDude/Neutron.ahk",
+      "dependencies": {}
+    },
+    {
+      "name": "github.com/SaifAqqad/VA.ahk",
+      "version": "1.x.x",
+      "sha": "d3372366d4af190a39931f10f66d2a94b9b85f2e",
+      "installPath": "ahkpm-modules/github.com/SaifAqqad/VA.ahk",
+      "dependencies": {}
+    },
+    {
+      "name": "github.com/SaifAqqad/VMR.ahk",
+      "version": "1.x.x",
+      "sha": "f83bc6152c18828ac91591e592d0c3bbd3bed42d",
+      "installPath": "ahkpm-modules/github.com/SaifAqqad/VMR.ahk",
+      "dependencies": {}
+    },
+    {
+      "name": "github.com/SaifAqqad/cJson.ahk",
+      "version": "branch:v1",
+      "sha": "c0a475c4b73c92759fa45b312b7b7add60490810",
+      "installPath": "ahkpm-modules/github.com/SaifAqqad/cJson.ahk",
+      "dependencies": {}
+    },
+    {
+      "name": "github.com/mmikeww/AHKv2-Gdip",
+      "version": "branch:master",
+      "sha": "cab5ae291023c790ce4081630b190b5b88409f48",
+      "installPath": "ahkpm-modules/github.com/mmikeww/AHKv2-Gdip",
+      "dependencies": {}
+    }
+  ]
+}

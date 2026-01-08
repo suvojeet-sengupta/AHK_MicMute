@@ -1,0 +1,22 @@
+{
+  "version": "1.3.5",
+  "description": "Control your microphone using keyboard and mouse hotkeys.",
+  "repository": "https://github.com/SaifAqqad/AHK_MicMute",
+  "website": "https://github.com/SaifAqqad/AHK_MicMute",
+  "license": "Unlicense",
+  "issueTracker": "https://github.com/SaifAqqad/AHK_MicMute/issues",
+  "include": "",
+  "author": {
+    "name": "Saif Alaqqad",
+    "email": "",
+    "website": ""
+  },
+  "scripts": {},
+  "dependencies": {
+    "github.com/G33kDude/Neutron.ahk": "branch:master",
+    "github.com/SaifAqqad/VA.ahk": "1.x.x",
+    "github.com/SaifAqqad/VMR.ahk": "1.x.x",
+    "github.com/SaifAqqad/cJson.ahk": "branch:v1",
+    "github.com/mmikeww/AHKv2-Gdip": "branch:master"
+  }
+}
